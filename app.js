@@ -67,3 +67,5 @@ if(pul >= 500){
 }else {
     console.log("Nokia ishlataver gadoy");
 }
+
+console.log(1);
